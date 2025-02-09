@@ -1,1 +1,1 @@
-# euaiact
+# Preprocessed data and codes for Sangchul Park, Measuring Regulatory Overlap Between Horizontal AI Law and Sectoral Regulations: A Case Study on “High-Risk” AI Systems in Annex I of the EU AI Act, forthcoming in the Journal of Law & Innovation (2025).
